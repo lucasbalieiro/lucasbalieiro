@@ -15,8 +15,7 @@
 
 💁 Sometimes helping [FastAPI](https://fastapi.tiangolo.com/pt/fastapi-people/) with some docs translations.
 
-👷 My current side project involves creating a WSGI-compliant framework to gain a better understanding of how things work under the hood: [SlothAPI](https://github.com/lucasbalieiro/slothapi)
-
+👷 My current side project involves creating a WSGI-compliant framework to gain a better understanding of how things work under the hood: [SlothAPI](https://github.com/lucasbalieiro/slothapi) and understand the Bitcoin protocol in a more in-depth view.
 🛠️ Tech Stack:
 - **Programming languages**: JavaScript | TypeScript | Python | C#
 - **Frontend**: React | Angular | HTML | CSS
